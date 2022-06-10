@@ -20,7 +20,7 @@
   "default-20s": "默认为20秒",
   "game-title": "吃掉赵球",
   "game-intro1": "赵球在一边鹅鹅鹅",
-  "game-intro2": "看着你能得多少分",
+  "game-intro2": "一边看着你得多少分",
   "record-rank": "用于纪录排行(特殊字符会被过滤)",
   "no-ad-bad-lang": "禁广告/脏话(本项可不填)",
   "time-up": "时间到",
